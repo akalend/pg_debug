@@ -1,0 +1,6 @@
+# debug extension
+comment = 'debug function'
+default_version = '1.0'
+module_pathname = '$libdir/debug'
+relocatable = true
+trusted = true
